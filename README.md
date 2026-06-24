@@ -24,12 +24,15 @@ That's exactly why this repo is open: the vision is an **open hardware project**
 A rough, functional prototype exists — see [`docs/status.md`](docs/status.md) for an honest list of what works and what doesn't.
 
 ![Early material: ripstop](images/material-ripstop.jpg)
+<br>
 *Ripstop nylon, first material choice.*
 
 ![Later material: kite offcut fabric](images/material-kite-fabric.jpg)
+<br>
 *Kite/paraglider offcut fabric, second iteration.*
 
 ![Velcro connection at batten loop](images/detail-velcro-connection.jpg)
+<br>
 *Velcro strips sewn into the batten loops — the only connection method used, fully separable, no adhesives.*
 
 **What works:**
