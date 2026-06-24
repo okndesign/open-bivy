@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+
+# CAD temp/backup files
+*.bak
+~$*
+*.lock
+
+# Large raw exports (keep compressed/final versions only)
+*_raw.*
+/raw/
