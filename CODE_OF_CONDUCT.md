@@ -45,12 +45,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 All complaints will be reviewed and investigated promptly and fairly. The privacy and security of the reporter will be respected.
 
-## Enforcement Guidelines
 
-1. **Correction** — For inappropriate language or other unprofessional behavior: a private, written warning, with clarity around the nature of the violation. A public apology may be requested.
-2. **Warning** — For a violation or series of violations: a warning with consequences for continued behavior. No interaction with the people involved for a specified period of time.
-3. **Temporary Ban** — For a serious or sustained violation: a temporary ban from any interaction with the community.
-4. **Permanent Ban** — For repeated violations, harassment of an individual, or aggression toward a group: a permanent ban.
 
 ## Attribution
 

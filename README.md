@@ -1,6 +1,6 @@
 # open-bivy — open hardware, work in progress
 
-> ⚠️ **Status: early development.** This repo documents an ongoing process, not a finished product. There are open problems (see [Issues](../../issues) and [Open Problems](#open-problems) below). If you want to think along, test, or build further — see [CONTRIBUTING.md](CONTRIBUTING.md).
+**Status: early development.** This repo documents an ongoing process, not a finished product. There are open problems (see [Issues](../../issues) and [Open Problems](#open-problems) below). If you want to think along, test, or build further — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ![Prototype in an urban setting](images/hero.jpg)
 
